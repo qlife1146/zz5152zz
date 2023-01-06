@@ -1,0 +1,30 @@
+{
+    "champion": [
+        {
+            "name": "사미라",
+            "img": "../img/samira.jpg",
+            "vsHardAd": ["케이틀린"],
+            "vsNormalAd": ["진", "베인"],
+            "vsEasyAd": [],
+            "vsHardSup": ["알리스타", "마오카이", "렐", "아무무", "레오나"],
+            "vsNormalSup": [],
+            "vsEasySup": [],
+            "bestAd": [],
+            "bestSup": ["렐", "노틸러스", "아무무"],
+            "comment": "사미라의 궁을 한번에 끊을 수 있는 하드 CC의 서포터에게 불리하다."
+        },
+        {
+            "name": "진",
+            "img": "../img/jhin.jpg",
+            "vsHardAd": [],
+            "vsNormalAd": [],
+            "vsEasyAd": ["이즈리얼", "케이틀린", "애쉬"],
+            "vsHardSup": ["마오카이", "렐", "아무무", "레오나", "노틸러스"],
+            "vsNormalSup": [],
+            "vsEasySup": [],
+            "bestAd": [],
+            "bestSup": ["하이머딩거", "노틸러스", "제라스", "브랜드", "애쉬", "미스 포츈"],
+            "comment": "CC 있는 탱커 서포터에게 불리하다."
+        }
+    ]
+}
